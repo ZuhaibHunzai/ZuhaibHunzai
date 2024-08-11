@@ -1,5 +1,5 @@
 <h1>
-Hi, I am Zuhaib
+Hi, I am Zuhaib Alam
 <img src="./gifs//wave.gif" width="35">
 </h1>
 <b>  
