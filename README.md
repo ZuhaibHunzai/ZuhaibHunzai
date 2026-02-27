@@ -3,9 +3,7 @@ Hi, I am Zuhaib Alam
 <img src="./gifs//wave.gif" width="35">
 </h1>
 <b>  
-I am a passionate Frontend JavaScript Developer with a Bachelor's degree in Computer Science. I specialize in crafting seamless user experiences with React and Next.js, and I have a growing enthusiasm for Solidity and blockchain development. 🌐🚀
-
-Let's build something amazing together! 💻
+I am a MERN Stack Developer (frontend-heavy) with a Bachelor's degree in Computer Science, specializing in building modern, responsive, and high-performance web applications using React and Next.js, with a strong focus on delivering seamless user experiences. I am also deeply interested in Artificial Intelligence (AI) and exploring how AI can be integrated into web applications to create smarter, more innovative solutions, along with a growing enthusiasm for Solidity and blockchain development and emerging Web3 technologies.
 </b>
 
 <h2>🛠 <b>Languages and Tools</b></h2>
